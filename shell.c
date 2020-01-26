@@ -1,3 +1,7 @@
+/* Name: Sarthak Shukla */
+/* Project to learn intricacies of bash programming and 
+   working of linux terminal 
+*/
 #include<stdio.h>
 #include<string.h>
 #include<unistd.h>
